@@ -1,0 +1,1 @@
+//To create a negated character set, you place a caret character (^) after the opening bracket and before the characters you do not want to match.
